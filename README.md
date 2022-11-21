@@ -1,2 +1,3 @@
 ## hopefully i do something cool at some point?
-# who knows..
+# accomplishments:
+> git gud winna 2022

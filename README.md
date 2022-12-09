@@ -1,3 +1,8 @@
-## hopefully i do something cool at some point?
-# accomplishments:
-> git gud winna 2022
+# Carson "c4rson" Cabrera LMU 2026 #
+
+## Accomplishments ##
+- Git Gud Changemaker Winner (2022)
+
+## Projects ##
+- Tacky Toe
+  - Python (pygame)

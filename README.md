@@ -1,9 +1,9 @@
 # Carson "c4rson" Cabrera #
-## LMU 2026 ##
+## LMU CMSI 2026 ##
 
-## Accomplishments ##
+### Accomplishments ###
 - Git Gud Changemaker Winner (2022)
 
-## Projects ##
+### Projects ###
 - Tacky Toe
   - Python (pygame)

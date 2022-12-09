@@ -1,4 +1,5 @@
-# Carson "c4rson" Cabrera LMU 2026 #
+# Carson "c4rson" Cabrera #
+## LMU 2026 ##
 
 ## Accomplishments ##
 - Git Gud Changemaker Winner (2022)

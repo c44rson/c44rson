@@ -11,3 +11,9 @@
   - Python (statically-typed)
 - Tic Tac Total
   - Python (statically-typed)
+- Vanilla Compound Interest Calculator
+  - CSS
+  - JavaScript
+  - HTML
+- API Joke Generator
+  - React

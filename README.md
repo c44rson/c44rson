@@ -7,3 +7,7 @@
 ### Projects ###
 - Tacky Toe
   - Python (pygame)
+- Biathlon
+  - Python (statically-typed)
+- Tic Tac Total
+  - Python (statically-typed)
